@@ -8,3 +8,4 @@ let array=[10,367,82,64,3,7]
 let result=array.sort()
 console.log(result);
 
+let msg="Developer 1"
