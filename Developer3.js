@@ -4,3 +4,6 @@ let obj={
     lastname:"Shingade"
 }
 console.log(obj);
+console.log("hello new day");
+
+
